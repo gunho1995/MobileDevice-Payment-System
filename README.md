@@ -98,9 +98,9 @@
 
   4.4 App Design
 
-####5. 결론
+#### 5. 결론
 
-####6. 부록
+#### 6. 부록
 
   6.1 Detailed Techniques
   
